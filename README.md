@@ -1,4 +1,5 @@
-## Data Directory Structure
+## Data
+#### Directory Structure
 
 ```
 data
@@ -30,3 +31,4 @@ data
 
 ## forOcrDemo
 Here are a few pictures that have been resized to fit the size processed by PhilologEg, along with the OCR results.
+
